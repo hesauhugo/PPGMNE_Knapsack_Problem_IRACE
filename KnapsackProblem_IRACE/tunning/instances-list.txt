@@ -1,0 +1,38 @@
+## This is an example of specifying instances with a file.
+
+# Each line is an instance relative to trainInstancesDir
+# (see scenario.txt.tmpl) and an optional sequence of instance-specific
+# parameters that will be passed to target-runnerx when invoked on that
+# instance.
+
+# Empty lines and comments are ignored.
+
+Knap_C30I20REP1.txt
+Knap_C30I20REP2.txt
+Knap_C30I20REP3.txt
+Knap_C30I20REP4.txt
+Knap_C30I20REP5.txt
+Knap_C30I20REP6.txt
+Knap_C30I20REP7.txt
+Knap_C30I20REP8.txt
+Knap_C30I20REP9.txt
+Knap_C30I20REP10.txt
+Knap_C30I20REP11.txt
+Knap_C30I20REP12.txt
+Knap_C30I20REP13.txt
+Knap_C30I20REP14.txt
+Knap_C30I20REP15.txt
+Knap_C30I20REP16.txt
+Knap_C30I20REP17.txt
+Knap_C30I20REP18.txt
+Knap_C30I20REP19.txt
+Knap_C30I20REP20.txt
+Knap_C30I20REP21.txt
+Knap_C30I20REP22.txt
+Knap_C30I20REP23.txt
+Knap_C30I20REP24.txt
+Knap_C30I20REP25.txt
+
+
+
+
